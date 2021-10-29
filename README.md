@@ -1,7 +1,24 @@
-# Restaurant-Management-System
+# resto-project
 
-The system is basically the website on which the user can manage the portal like
-Adding the new restaurant, deleting the existing restaurant or updating the details of restaurant.
+## Project setup
+```
+npm install
+```
 
-The website requires user's login emial and password to perform the various function on the database.
-The user can sign up by going to sign up page.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
